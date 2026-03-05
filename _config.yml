@@ -1,0 +1,28 @@
+title: "Khajan Singh | ISM Portfolio"
+description: "Independent Study and Mentorship (ISM) digital portfolio for Environmental Electrical Engineering."
+url: ""
+baseurl: ""
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown
+
+# GitHub Pages-safe plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
