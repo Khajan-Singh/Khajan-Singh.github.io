@@ -22,10 +22,10 @@ subtitle: "Original Work and Final Product progression."
 
 <h3>Components</h3>
 <ul>
-  <li><strong>Proposal</strong> — linked within the folder</li>
-  <li><strong>Original Work</strong> — build documentation and artifacts</li>
-  <li><strong>Set-up & Completion Summary</strong> — how it was assembled and validated</li>
-  <li><strong>Original Work Assessment</strong> — reflection and evaluation</li>
+  <li><strong>Proposal</strong></li>
+  <li><strong>Original Work</strong></li>
+  <li><strong>Set-up & Completion Summary</strong></li>
+  <li><strong>Original Work Assessment</strong></li>
 </ul>
 
 <h2>Final Product</h2>
