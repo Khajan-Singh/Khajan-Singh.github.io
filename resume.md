@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Résumé
-subtitle: "A viewable résumé will be added here, along with a downloadable PDF."
+title: Resume
+subtitle: "View and download my current resume."
 ---
 
-<div class="card">
-  <h3 class="card__title">Coming soon</h3>
-  <p class="card__text">
-    This page will contain my finalized résumé for viewing on the site and a PDF link for downloading/printing.
-  </p>
-  <div class="card__meta">
-    <span class="chip">No address</span>
-    <span class="chip">No phone number</span>
-    <span class="chip">Professional email only</span>
-  </div>
+{% assign resume_pdf = '/assets/Khajan Singh New Resume.pdf' | replace: ' ', '%20' %}
+
+<div class="resume-actions">
+  <a class="btn btn--primary" href="{{ resume_pdf | relative_url }}" target="_blank" rel="noopener">Open Resume (PDF)</a>
+  <a class="btn" href="{{ resume_pdf | relative_url }}" download>Download Resume</a>
+</div>
+
+<div class="resume-frame card">
+  <iframe
+    title="Khajan Singh Resume PDF"
+    src="{{ resume_pdf | relative_url }}"
+    loading="lazy">
+  </iframe>
 </div>
