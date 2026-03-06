@@ -23,15 +23,8 @@ subtitle: "Mentor profile and gratitude."
 
     <h2>Bio</h2>
     <p>
-      <em>Bio placeholder:</em> Add a short professional bio describing Leo’s role, expertise, and how it connects to this project.
-      (Once you send me a few bullet points about his background, I can write a polished version.)
-    </p>
+      <em>Bio placeholder:</em> Leo Hoarty is a professional engineer with over 35 years of experience in both electronics engineering and computer science. He holds thirty-seven granted US patents in many areas of technology. He has considerable experience in the development of all levels of complex software systems as well as designing and bringing electronic hardware products to market. 
 
-    <h2>Gratitude</h2>
-    <p>
-      <em>Thank-you note placeholder:</em>
-      Thank you for supporting my ISM journey and helping me connect classroom learning to real-world environmental sensing and systems work.
-      Your guidance has helped me refine my technical thinking, ask better questions, and hold my work to professional standards.
     </p>
   </div>
 </div>

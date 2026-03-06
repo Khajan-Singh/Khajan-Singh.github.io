@@ -20,7 +20,7 @@ subtitle: "Original Work and Final Product progression."
   </div>
 </div>
 
-<h3>Required components</h3>
+<h3>Components</h3>
 <ul>
   <li><strong>Proposal</strong> — linked within the folder</li>
   <li><strong>Original Work</strong> — build documentation and artifacts</li>

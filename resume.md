@@ -15,9 +15,3 @@ subtitle: "A viewable résumé will be added here, along with a downloadable PDF
     <span class="chip">Professional email only</span>
   </div>
 </div>
-
-<h2>Placeholder layout</h2>
-<p>
-  When you’re ready, add <code>assets/resume/resume.pdf</code> and update this page to embed it.
-  The site is already structured to meet ISM requirements.
-</p>

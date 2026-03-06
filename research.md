@@ -20,9 +20,3 @@ subtitle: "Research assessments and documentation (linked folders)."
     </a>
   {% endfor %}
 </div>
-
-<h2>Interview / Mentor Visit / Observation</h2>
-<p>
-  Add additional sections here as you complete them (Interview Assessments, Mentor Visit/Observation Assessments).
-  The same button style can be reused for easy consistency.
-</p>

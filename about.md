@@ -19,7 +19,7 @@ subtitle: "A brief bio, mission, and how to reach me."
     <h2>Bio</h2>
     <p>
       I’m a Grade 11 student at Wakeland High School in Frisco, Texas, studying <strong>Environmental Electrical Engineering</strong>.
-      I’m interested in building real systems that translate nature into data — sensors, embedded electronics, and signal pipelines that make
+      I’m interested in building real systems that translate nature into data: sensors, embedded electronics, and signal pipelines that make
       environmental conditions measurable, interpretable, and useful.
     </p>
     <p>
@@ -39,10 +39,6 @@ subtitle: "A brief bio, mission, and how to reach me."
     <p>
       Email: <a class="link" href="mailto:khajan09singh@gmail.com">khajan09singh@gmail.com</a><br>
       LinkedIn: <a class="link" href="https://www.linkedin.com/in/khajansingh09/" target="_blank" rel="noopener">khajansingh09</a>
-    </p>
-
-    <p style="color: rgba(255,255,255,0.62); font-size: 13px;">
-      Note: For online safety and rubric compliance, this site intentionally does not display a home address or phone number.
     </p>
   </div>
 </div>
