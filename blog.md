@@ -1,12 +1,17 @@
 ---
 layout: page
 title: Blog
-subtitle: "Weekly reflections — newest to oldest."
+subtitle: "Weekly engineering reflections in reverse chronological order."
+summary: "Execution log covering progress, blockers, and next actions across the ISM cycle."
+status: "Weekly updates in progress"
+updated: "March 2026"
+kicker: "Execution Log"
 ---
 
-<p>
-  Posts are ordered newest to oldest automatically. Each entry is a weekly reflection documenting progress, challenges, and next steps.
-</p>
+<section class="section stack">
+  <h2 class="h2">Weekly Notes</h2>
+  <p>Posts are listed newest to oldest. Each entry captures work completed, constraints encountered, and decisions for the next iteration.</p>
+</section>
 
 {% if site.posts and site.posts.size > 0 %}
   <div class="bloglist">
@@ -14,16 +19,15 @@ subtitle: "Weekly reflections — newest to oldest."
       <a class="postcard" href="{{ post.url | relative_url }}">
         <h3 class="postcard__title">{{ post.title }}</h3>
         <div class="postcard__meta">{{ post.date | date: "%B %-d, %Y" }}</div>
-        <p class="postcard__excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <p class="postcard__excerpt">{{ post.excerpt | strip_html | truncate: 170 }}</p>
       </a>
     {% endfor %}
   </div>
 {% else %}
-  <div class="card">
-    <h3 class="card__title">Ready for your weekly reports</h3>
-    <p class="card__text">
-      I can’t pull text directly from Google Drive links from here. To add your 23 weekly reports, paste each week into a post file in
-      <code>_posts/</code>. I’ve included 23 placeholder posts so you can copy/paste quickly.
-    </p>
-  </div>
+  <section class="section">
+    <article class="evidence-card">
+      <h3 class="evidence-card__title">No posts yet</h3>
+      <p class="evidence-card__text">Add weekly markdown files to <code>_posts/</code> to publish entries automatically.</p>
+    </article>
+  </section>
 {% endif %}

@@ -1,45 +1,68 @@
 ---
 layout: page
 title: Projects
-subtitle: "Original Work and Final Product progression."
+subtitle: "Original Work and final product progression."
+summary: "Project dossier for the sensor-driven plant monitoring system, including architecture, evidence links, and milestone status."
+status: "Original Work active | Final Product in planning"
+updated: "March 2026"
+kicker: "Project Dossier"
 ---
 
-<h2>Original Work</h2>
-<p>
-  My Original Work focuses on building a sensor-driven plant monitoring system — collecting soil and environmental data, transporting it reliably,
-  and visualizing it in a clean dashboard format that supports practical decision-making.
-</p>
+<section class="section stack">
+  <h2 class="h2">System Goal</h2>
+  <p>Build a sensor-led monitoring system that captures plant and soil conditions, transmits observations reliably, and presents data in a clear dashboard for practical decision support.</p>
+</section>
 
-<div class="card">
-  <h3 class="card__title">Original Work Folder</h3>
-  <p class="card__text">
-    This folder contains the materials for my plant technology monitoring work: sensors on plants, soil moisture monitoring, data capture, and visualization.
-  </p>
-  <div class="card__meta">
-    <a class="btn btn--primary" href="{{ site.data.projects.original_work.folder_url }}" target="_blank" rel="noopener">Open Folder ↗</a>
+<section class="section stack">
+  <h2 class="h2">Architecture Summary</h2>
+  <div class="metric-row">
+    <div class="metric">
+      <span class="metric__label">Input Layer</span>
+      <span class="metric__value">Soil and environmental sensors</span>
+    </div>
+    <div class="metric">
+      <span class="metric__label">Compute Layer</span>
+      <span class="metric__value">Edge processing and data formatting</span>
+    </div>
+    <div class="metric">
+      <span class="metric__label">Transport Layer</span>
+      <span class="metric__value">Reliable transfer to storage and dashboard</span>
+    </div>
+    <div class="metric">
+      <span class="metric__label">Output Layer</span>
+      <span class="metric__value">Readable trends for technical review</span>
+    </div>
   </div>
-</div>
+</section>
 
-<h3>Components</h3>
-<ul>
-  <li><strong>Proposal</strong></li>
-  <li><strong>Original Work</strong></li>
-  <li><strong>Set-up & Completion Summary</strong></li>
-  <li><strong>Original Work Assessment</strong></li>
-</ul>
+<section class="section stack">
+  <h2 class="h2">Evidence Links</h2>
+  <article class="evidence-card">
+    <h3 class="evidence-card__title">Original Work Folder</h3>
+    <p class="evidence-card__text">Primary materials for sensor setup, monitoring workflow, captured observations, and documentation assets.</p>
+    <div class="cluster">
+      <a class="btn btn--primary" href="{{ site.data.projects.original_work.folder_url }}" target="_blank" rel="noopener">Open Folder</a>
+    </div>
+  </article>
+</section>
 
-<h2>Final Product</h2>
-<div class="card">
-  <h3 class="card__title">Work in progress</h3>
-  <p class="card__text">
-    The Final Product is currently in development. This section will document the proposal, build, completion summary, and final assessment as the project evolves.
-  </p>
-</div>
-
-<h3>Planned components</h3>
-<ul>
-  <li><strong>Final Product Proposal</strong></li>
-  <li><strong>Final Product</strong></li>
-  <li><strong>Set-up & Completion Summary</strong></li>
-  <li><strong>Final Product Assessment</strong></li>
-</ul>
+<section class="section grid-2">
+  <article class="stack stack--sm">
+    <h2 class="h2">Progress State</h2>
+    <ul>
+      <li>Proposal drafted and iterated against feasibility constraints.</li>
+      <li>Original Work artifacts tracked in structured folders.</li>
+      <li>Instrumentation workflow documented for reproducibility.</li>
+      <li>Assessment evidence mapped to ISM requirements.</li>
+    </ul>
+  </article>
+  <article class="stack stack--sm">
+    <h2 class="h2">Next Milestones</h2>
+    <ul>
+      <li>Finalize final-product scope and measurable success criteria.</li>
+      <li>Lock implementation plan for build completion.</li>
+      <li>Publish setup and completion summary with key lessons.</li>
+      <li>Complete final product assessment package.</li>
+    </ul>
+  </article>
+</section>

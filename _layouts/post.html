@@ -2,21 +2,25 @@
 layout: default
 ---
 <article class="post">
-  <header class="post__header">
-    <div class="kicker">Weekly Blog</div>
+  <header class="post__header stack stack--sm">
+    <p class="kicker">Weekly Blog</p>
     <h1 class="post__title">{{ page.title }}</h1>
     <div class="post__meta">
       <span>{{ page.date | date: "%B %-d, %Y" }}</span>
       {% if page.tags and page.tags.size > 0 %}
-        <span class="dot">•</span>
+        <span class="dot">|</span>
         <span>{{ page.tags | join: ", " }}</span>
+      {% endif %}
+      {% if page.updated %}
+        <span class="dot">|</span>
+        <span>Updated {{ page.updated }}</span>
       {% endif %}
     </div>
   </header>
-  <div class="prose">
+  <div class="post__body prose">
     {{ content }}
   </div>
   <div class="post__back">
-    <a class="link" href="{{ '/blog/' | relative_url }}">← Back to Blog</a>
+    <a class="link" href="{{ '/blog/' | relative_url }}">Back to Blog</a>
   </div>
 </article>

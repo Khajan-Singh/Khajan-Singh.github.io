@@ -1,25 +1,25 @@
 ---
 layout: page
 title: About ISM
-subtitle: "Independent Study & Mentorship: sustained inquiry, real-world learning, and a student-built project."
+subtitle: "Independent Study and Mentorship program context."
+summary: "How ISM structures research, professional engagement, and a long-cycle original project."
+status: "Program context"
+updated: "March 2026"
+kicker: "Program Context"
 ---
 
-<p>
-  <strong>Independent Study & Mentorship (ISM)</strong> is a year-long course that allows students to explore a career field through
-  research, professional interaction, and a long-term project. Students begin by studying their selected industry, building foundational
-  knowledge through research assessments, interviews, mentor visits, and observation of real workplaces and practices.
-</p>
+<section class="section stack">
+  <h2 class="h2">What ISM Is</h2>
+  <p>Independent Study and Mentorship (ISM) is a year-long course where students investigate a career field through structured research, professional interaction, and a major project.</p>
+  <p>Students build foundational understanding through assessments, interviews, mentor observations, and field-specific documentation. They then convert that learning into an original work product and final portfolio evidence.</p>
+</section>
 
-<p>
-  As the year progresses, students apply what they learn by proposing and developing an original project aligned to their field.
-  The ISM process emphasizes sustained inquiry: asking focused questions, gathering and interpreting information, and refining ideas through
-  reflection and iteration. The end result is a professional digital portfolio that documents learning, growth, and an authentic project.
-</p>
-
-<h2>What this portfolio shows</h2>
-<ul>
-  <li>My topic of study and professional goals</li>
-  <li>Research and reflections collected throughout the year</li>
-  <li>Evidence of professional engagement (mentor work, interviews, observations)</li>
-  <li>Original Work and the progression toward my Final Product</li>
-</ul>
+<section class="section stack">
+  <h2 class="h2">What This Portfolio Demonstrates</h2>
+  <ul>
+    <li>Topic selection and technical career intent.</li>
+    <li>Progressive research artifacts and reflection quality.</li>
+    <li>Professional engagement through mentor and industry interaction.</li>
+    <li>Original Work progression toward final product completion.</li>
+  </ul>
+</section>

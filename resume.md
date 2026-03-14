@@ -1,25 +1,29 @@
 ---
 layout: page
-title: Résumé
-subtitle: "My current résumé."
+title: Resume
+subtitle: "Current resume and downloadable PDF."
+summary: "Reference document for academic and technical background."
+status: "Current version published"
+updated: "March 2026"
+kicker: "Resume"
 ---
 
-<div class="card">
-  <h3 class="card__title">View / Download Résumé</h3>
-  <p class="card__text">
-    You can view my résumé below or open the PDF in a separate tab.
-  </p>
-  <div class="card__meta">
-    <a class="btn btn--primary" href="{{ '/assets/resume/khajanresume.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF ↗</a>
-    <a class="btn" href="{{ '/assets/resume/khajanresume.pdf' | relative_url }}" download>Download PDF</a>
-  </div>
-</div>
+<section class="section stack">
+  <article class="evidence-card">
+    <h3 class="evidence-card__title">View or Download Resume</h3>
+    <p class="evidence-card__text">Open the PDF in a new tab or download a local copy.</p>
+    <div class="cluster">
+      <a class="btn btn--primary" href="{{ '/assets/resume/khajanresume.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF</a>
+      <a class="btn" href="{{ '/assets/resume/khajanresume.pdf' | relative_url }}" download>Download PDF</a>
+    </div>
+  </article>
+</section>
 
-<div style="margin-top: 18px; border: 1px solid rgba(255,255,255,0.12); border-radius: 18px; overflow: hidden; background: rgba(255,255,255,0.04);">
+<div class="embed-frame">
   <iframe
     src="{{ '/assets/resume/khajanresume.pdf' | relative_url }}"
     width="100%"
-    height="1100"
+    height="1080"
     style="border:0; display:block;"
     title="Khajan Singh Resume">
   </iframe>
