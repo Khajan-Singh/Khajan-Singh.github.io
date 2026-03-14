@@ -2,8 +2,7 @@
 layout: page
 title: Research
 subtitle: "Research assessments and supporting documentation."
-summary: "Ordered evidence log of research assessments, each linked to its source folder."
-updated: "March 2026"
+summary: "Ordered log of research assessments, each linked to its source folder."
 ---
 
 <section class="section stack">

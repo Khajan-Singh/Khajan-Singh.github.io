@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Blog
-subtitle: "Weekly engineering reflections in reverse chronological order."
-summary: "Execution log covering progress, blockers, and next actions across the ISM cycle."
-updated: "March 2026"
+title: Weekly Report Blog
+summary: "Weekly reports covering progress, blockers, and next actions across my ISM journey . Posts are listed newest to oldest.
+
+"
 ---
-
-<section class="section stack">
-  <h2 class="h2">Weekly Reports</h2>
-  <p>Posts are listed newest to oldest. Each entry captures work completed, constraints encountered, and decisions for the next iteration.</p>
-</section>
-
 {% if site.posts and site.posts.size > 0 %}
   <div class="bloglist">
     {% for post in site.posts %}

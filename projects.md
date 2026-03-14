@@ -3,7 +3,6 @@ layout: page
 title: Projects
 subtitle: "Original Work and final product progression."
 summary: "Project dossier for the sensor-driven plant monitoring system, including architecture, evidence links, and milestone status."
-updated: "March 2026"
 ---
 
 <section class="section stack">

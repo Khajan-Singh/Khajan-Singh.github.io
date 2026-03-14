@@ -3,7 +3,6 @@ layout: default
 title: Home
 description: "Khajan Singh technical portfolio for Environmental Electrical Engineering ISM work."
 summary: "Technical portfolio documenting a sensor-led environmental engineering build from research to deployment."
-updated: "March 2026"
 ---
 
 <section class="section stack stack--lg">

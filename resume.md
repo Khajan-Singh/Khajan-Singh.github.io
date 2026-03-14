@@ -2,7 +2,6 @@
 layout: page
 title: Resume
 subtitle: "Current resume."
-updated: "March 2026"
 actions:
   - label: "Open PDF"
     url: "/assets/resume/khajanresume.pdf"
