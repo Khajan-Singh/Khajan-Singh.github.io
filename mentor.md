@@ -3,7 +3,6 @@ layout: page
 title: Mentor Bio
 subtitle: "Mentor profile and professional background."
 summary: "Industry mentor supporting technical growth through engineering perspective and feedback."
-status: "Mentorship active"
 updated: "March 2026"
 kicker: "Mentor"
 ---
