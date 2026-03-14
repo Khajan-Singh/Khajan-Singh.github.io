@@ -41,24 +41,3 @@ subtitle: "ISM Original Work and Final Product + My Own Projects"
     </div>
   </article>
 </section>
-
-<section class="section grid-2">
-  <article class="stack stack--sm">
-    <h2 class="h2">Progress State</h2>
-    <ul>
-      <li>Proposal drafted and iterated against feasibility constraints.</li>
-      <li>Original Work artifacts tracked in structured folders.</li>
-      <li>Instrumentation workflow documented for reproducibility.</li>
-      <li>Assessment evidence mapped to ISM requirements.</li>
-    </ul>
-  </article>
-  <article class="stack stack--sm">
-    <h2 class="h2">Next Milestones</h2>
-    <ul>
-      <li>Finalize final-product scope and measurable success criteria.</li>
-      <li>Lock implementation plan for build completion.</li>
-      <li>Publish setup and completion summary with key lessons.</li>
-      <li>Complete final product assessment package.</li>
-    </ul>
-  </article>
-</section>

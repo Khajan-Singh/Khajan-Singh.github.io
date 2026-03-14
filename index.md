@@ -53,7 +53,7 @@ summary: "Technical portfolio documenting a sensor-led environmental engineering
     </article>
     <article class="evidence-card">
       <h3 class="evidence-card__title">Weekly Blog</h3>
-      <p class="evidence-card__text">Chronological weekly reflections with progress updates, blockers, and next actions in my ISM journey for the 2025-2026 year.</p>
+      <p class="evidence-card__text">Chronological weekly reflections with progress updates, blockers, and next actions in my ISM journey for the 2025-2026 year.   </p>
       <div class="cluster">
         <a class="btn" href="{{ '/blog/' | relative_url }}">View Blog</a>
       </div>
