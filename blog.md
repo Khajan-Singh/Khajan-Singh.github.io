@@ -4,7 +4,6 @@ title: Blog
 subtitle: "Weekly engineering reflections in reverse chronological order."
 summary: "Execution log covering progress, blockers, and next actions across the ISM cycle."
 updated: "March 2026"
-kicker: "Execution Log"
 ---
 
 <section class="section stack">

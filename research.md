@@ -4,7 +4,6 @@ title: Research
 subtitle: "Research assessments and supporting documentation."
 summary: "Ordered evidence log of research assessments, each linked to its source folder."
 updated: "March 2026"
-kicker: "Evidence Log"
 ---
 
 <section class="section stack">

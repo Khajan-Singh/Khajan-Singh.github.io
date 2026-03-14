@@ -4,7 +4,6 @@ title: About ISM
 subtitle: "Independent Study and Mentorship program context."
 summary: "How ISM structures research, professional engagement, and a long-cycle original project."
 updated: "March 2026"
-kicker: "Program Context"
 ---
 
 <section class="section stack">

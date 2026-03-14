@@ -18,7 +18,7 @@ updated: "March 2026"
 </section>
 
 <section class="section stack">
-  <h2 class="h2">Current Build Snapshot</h2>
+  <h2 class="h2">What Am I Doing</h2>
   <div class="metric-row">
     <div class="metric">
       <span class="metric__label">Program</span>
@@ -40,7 +40,7 @@ updated: "March 2026"
 </section>
 
 <section class="section stack">
-  <h2 class="h2">Evidence Paths</h2>
+  <h2 class="h2">Proof of Works</h2>
   <div class="grid-3">
     <article class="evidence-card">
       <h3 class="evidence-card__title">Projects</h3>
@@ -69,7 +69,7 @@ updated: "March 2026"
 <section class="section grid-2">
   <article class="stack stack--sm">
     <h2 class="h2">Technical Profile</h2>
-    <p class="lede">Grade 11 student engineer focused on instrumentation, embedded systems, and practical data pipelines for environmental contexts.</p>
+    <p class="lede">Grade 11 student engineer focused embedded systems for environmental and worldly applications :D</p>
     <div class="cluster">
       <span class="tag">IoT systems</span>
       <span class="tag">Sensor integration</span>
@@ -79,7 +79,7 @@ updated: "March 2026"
   </article>
   <article class="stack stack--sm">
     <h2 class="h2">Contact</h2>
-    <p class="lede">For mentorship, university review, or technical collaboration, use the links below.</p>
+    <p class="lede">Feel free to contact with me the links below!</p>
     <div class="cluster">
       <a class="btn btn--primary" href="mailto:khajan09singh@gmail.com">Email</a>
       <a class="btn" href="https://www.linkedin.com/in/khajansingh09/" target="_blank" rel="noopener">LinkedIn</a>

@@ -17,6 +17,13 @@ layout: default
         {% if page.updated %}<span class="tag">Updated: {{ page.updated }}</span>{% endif %}
       </div>
     {% endif %}
+    {% if page.actions %}
+      <div class="cluster">
+        {% for action in page.actions %}
+          <a class="btn {% if action.primary %}btn--primary{% endif %}" href="{{ action.url | relative_url }}"{% if action.external %} target="_blank" rel="noopener"{% endif %}{% if action.download %} download{% endif %}>{{ action.label }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
   </header>
   <div class="page__content prose stack">
     {{ content }}

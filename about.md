@@ -3,7 +3,6 @@ layout: page
 title: About Me
 summary: "Student engineer focused on translating environmental signals into practical data systems."
 updated: "March 2026"
-kicker: "Profile"
 ---
 
 <div class="split">
