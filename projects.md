@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Projects
-subtitle: "Original Work and final product progression."
-summary: "Project dossier for the sensor-driven plant monitoring system, including architecture, evidence links, and milestone status."
+subtitle: "ISM Original Work and Final Product + My Own Projects"
 ---
 
 <section class="section stack">
-  <h2 class="h2">System Goal</h2>
-  <p>Build a sensor-led monitoring system that captures plant and soil conditions, transmits observations reliably, and presents data in a clear dashboard for practical decision support.</p>
+  <h2 class="h2">ISM Project Goal</h2>
+  <p>Build a sensor-led, physiological monitoring system that captures plant health conditions, transmits observations reliably, analyzes it for meaningful interpretation, and presents data in a clear manner for practical decision support.</p>
 </section>
 
 <section class="section stack">

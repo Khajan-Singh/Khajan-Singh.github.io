@@ -2,7 +2,6 @@
 layout: page
 title: Mentor Bio
 subtitle: "Mentor profile and professional background."
-summary: "Industry mentor supporting technical growth through engineering perspective and feedback."
 ---
 
 <div class="split">
@@ -10,7 +9,6 @@ summary: "Industry mentor supporting technical growth through engineering perspe
     <div class="avatar__img">
       <img src="{{ '/assets/img/placeholder-suit.svg' | relative_url }}" alt="Mentor profile image placeholder">
     </div>
-    <div class="avatar__cap">Mentor portrait placeholder until approved photo is published.</div>
   </div>
 
   <section class="section stack">

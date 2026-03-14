@@ -7,8 +7,6 @@ summary: "Ordered log of research assessments, each linked to its source folder.
 
 <section class="section stack">
   <h2 class="h2">Research Evidence Log</h2>
-  <p>Each entry links to a folder with assessment materials. The sequence is preserved to show progression of inquiry and documentation quality over time.</p>
-
   <div class="pillgrid">
     {% for item in site.data.research %}
       <a class="pill" href="{{ item.url }}" target="_blank" rel="noopener">

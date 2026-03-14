@@ -17,23 +17,19 @@ summary: "Technical portfolio documenting a sensor-led environmental engineering
 </section>
 
 <section class="section stack">
-  <h2 class="h2">What Am I Doing</h2>
+  <h2 class="h2">Overview Of Me</h2>
   <div class="metric-row">
     <div class="metric">
       <span class="metric__label">Program</span>
-      <span class="metric__value">ISM, Wakeland High School</span>
+      <span class="metric__value">Independent Student & Mentorship (ISM) @ Wakeland High School</span>
     </div>
     <div class="metric">
       <span class="metric__label">Build Focus</span>
-      <span class="metric__value">Plant and soil sensing pipeline</span>
-    </div>
-    <div class="metric">
-      <span class="metric__label">Stage</span>
-      <span class="metric__value">Prototype instrumentation + validation</span>
+      <span class="metric__value">Plant Electrophysiology</span>
     </div>
     <div class="metric">
       <span class="metric__label">Primary Outcome</span>
-      <span class="metric__value">Cleaner decisions from reliable field data</span>
+      <span class="metric__value">Useful decisions based on the world's data</span>
     </div>
   </div>
 </section>
@@ -43,21 +39,21 @@ summary: "Technical portfolio documenting a sensor-led environmental engineering
   <div class="grid-3">
     <article class="evidence-card">
       <h3 class="evidence-card__title">Projects</h3>
-      <p class="evidence-card__text">System goals, architecture overview, current milestones, and supporting artifacts.</p>
+      <p class="evidence-card__text">Log of my past projects, goals, architecture overview, current milestones, and supporting documentation.</p>
       <div class="cluster">
         <a class="btn" href="{{ '/projects/' | relative_url }}">View Projects</a>
       </div>
     </article>
     <article class="evidence-card">
       <h3 class="evidence-card__title">Research</h3>
-      <p class="evidence-card__text">Ordered assessment folders showing inquiry depth, documentation discipline, and continuity.</p>
+      <p class="evidence-card__text">Ordered research assessment logs for my ISM product.</p>
       <div class="cluster">
         <a class="btn" href="{{ '/research/' | relative_url }}">View Research</a>
       </div>
     </article>
     <article class="evidence-card">
       <h3 class="evidence-card__title">Weekly Blog</h3>
-      <p class="evidence-card__text">Chronological engineering reflections with progress updates, blockers, and next actions.</p>
+      <p class="evidence-card__text">Chronological weekly reflections with progress updates, blockers, and next actions in my ISM journey for the 2025-2026 year.</p>
       <div class="cluster">
         <a class="btn" href="{{ '/blog/' | relative_url }}">View Blog</a>
       </div>

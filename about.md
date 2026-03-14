@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-summary: "Student engineer focused on translating environmental signals into practical data systems."
+summary: "Student engineer focused on making use of environmental signals for practical data systems."
 ---
 
 <div class="split">

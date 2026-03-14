@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-subtitle: "Current resume."
 actions:
   - label: "Open PDF"
     url: "/assets/resume/khajanresume.pdf"
