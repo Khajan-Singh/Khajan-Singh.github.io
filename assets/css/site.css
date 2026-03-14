@@ -610,3 +610,7 @@ img {
     scroll-behavior: auto !important;
   }
 }
+
+.evidence-card__text {
+  margin-bottom: 15px;
+}

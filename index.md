@@ -45,7 +45,6 @@ updated: "March 2026"
     <article class="evidence-card">
       <h3 class="evidence-card__title">Projects</h3>
       <p class="evidence-card__text">System goals, architecture overview, current milestones, and supporting artifacts.</p>
-      <div class="evidence-card__meta">Primary technical proof</div>
       <div class="cluster">
         <a class="btn" href="{{ '/projects/' | relative_url }}">View Projects</a>
       </div>
@@ -53,7 +52,6 @@ updated: "March 2026"
     <article class="evidence-card">
       <h3 class="evidence-card__title">Research</h3>
       <p class="evidence-card__text">Ordered assessment folders showing inquiry depth, documentation discipline, and continuity.</p>
-      <div class="evidence-card__meta">Structured research trail</div>
       <div class="cluster">
         <a class="btn" href="{{ '/research/' | relative_url }}">View Research</a>
       </div>
@@ -61,7 +59,6 @@ updated: "March 2026"
     <article class="evidence-card">
       <h3 class="evidence-card__title">Weekly Blog</h3>
       <p class="evidence-card__text">Chronological engineering reflections with progress updates, blockers, and next actions.</p>
-      <div class="evidence-card__meta">Execution cadence</div>
       <div class="cluster">
         <a class="btn" href="{{ '/blog/' | relative_url }}">View Blog</a>
       </div>
