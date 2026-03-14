@@ -1,44 +1,31 @@
 ---
 layout: page
 title: About Me
-subtitle: "A brief bio, mission, and how to reach me."
+summary: "Student engineer focused on translating environmental signals into practical data systems."
+updated: "March 2026"
+kicker: "Profile"
 ---
 
 <div class="split">
   <div class="avatar">
     <div class="avatar__img">
-      <img src="{{ '/assets/img/placeholder-suit.svg' | relative_url }}" alt="Professional headshot placeholder">
+      <img src="{{ '/assets/img/placeholder-suit.svg' | relative_url }}" alt="Khajan Singh profile image">
     </div>
-    <div class="avatar__cap">
-      Replace this placeholder with a professional photo (suit / business-casual).
-      Recommended: 1000×1200 or larger, centered, neutral background.
-    </div>
+    <div class="avatar__cap">Professional portrait placeholder used until final headshot is published.</div>
   </div>
 
-  <div>
-    <h2>Bio</h2>
-    <p>
-      I’m a Grade 11 student at Wakeland High School in Frisco, Texas, studying <strong>Environmental Electrical Engineering</strong>.
-      I’m interested in building real systems that translate nature into data: sensors, embedded electronics, and signal pipelines that make
-      environmental conditions measurable, interpretable, and useful.
-    </p>
-    <p>
-      In ISM, my work focuses on designing plant and soil monitoring technology that supports earlier decisions for growers and researchers.
-      My long-term goal is to push our understanding of nature using technology — not as an abstract concept, but as deployable tools
-      that reduce uncertainty in the real world.
-    </p>
+  <section class="section stack">
+    <h2 class="h2">Bio</h2>
+    <p>I am a Grade 11 student at Wakeland High School in Frisco, Texas, studying Environmental Electrical Engineering through ISM. My focus is building systems that transform environmental conditions into measurable, interpretable signals.</p>
+    <p>Current work centers on plant and soil monitoring technology. The objective is not only data capture, but decision-ready outputs that can support growers, researchers, and technical evaluators.</p>
 
-    <h2>Mission Statement</h2>
-    <p>
-      My mission is to harness my curiosity and passion for technological systems to create innovations that drive positive change.
-      I believe that the possibilities are endless, and I aspire to push boundaries, solve real-world problems, and leave an impact that lasts beyond myself.
-      In ISM, my mission is to evaluate one such problem with a self-conceived solution with the potential for the aforementioned impact.
-    </p>
+    <h2 class="h2">Mission</h2>
+    <p>Develop practical engineering tools that reduce uncertainty in real-world environmental contexts. Every build cycle is treated as a measurable system improvement problem: define signal targets, instrument reliably, evaluate outcomes, and iterate.</p>
 
-    <h2>Contact</h2>
-    <p>
-      Email: <a class="link" href="mailto:khajan09singh@gmail.com">khajan09singh@gmail.com</a><br>
-      LinkedIn: <a class="link" href="https://www.linkedin.com/in/khajansingh09/" target="_blank" rel="noopener">khajansingh09</a>
-    </p>
-  </div>
+    <h2 class="h2">Contact</h2>
+    <div class="cluster">
+      <a class="btn btn--primary" href="mailto:khajan09singh@gmail.com">khajan09singh@gmail.com</a>
+      <a class="btn" href="https://www.linkedin.com/in/khajansingh09/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </section>
 </div>

@@ -2,13 +2,23 @@
 layout: default
 ---
 <section class="page">
-  <header class="page__header">
+  <header class="page__header stack">
+    <p class="kicker">{{ page.kicker | default: 'Portfolio Page' }}</p>
     <h1 class="page__title">{{ page.h1 | default: page.title }}</h1>
     {% if page.subtitle %}
       <p class="page__subtitle">{{ page.subtitle }}</p>
     {% endif %}
+    {% if page.summary %}
+      <p class="page__summary">{{ page.summary }}</p>
+    {% endif %}
+    {% if page.status or page.updated %}
+      <div class="page__meta">
+        {% if page.status %}<span class="tag">Status: {{ page.status }}</span>{% endif %}
+        {% if page.updated %}<span class="tag">Updated: {{ page.updated }}</span>{% endif %}
+      </div>
+    {% endif %}
   </header>
-  <div class="page__content prose">
+  <div class="page__content prose stack">
     {{ content }}
   </div>
 </section>
