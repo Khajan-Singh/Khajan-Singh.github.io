@@ -73,13 +73,19 @@
 
 html,
 body {
-  height: 100%;
+  min-height: 100%;
 }
 
 body {
   margin: 0;
   color: var(--text);
-  background: radial-gradient(1200px 720px at 12% -8%, rgba(137, 180, 250, 0.14), transparent 60%), radial-gradient(900px 620px at 88% 16%, rgba(148, 226, 213, 0.10), transparent 58%), linear-gradient(160deg, var(--ctp-crust) 0%, var(--ctp-mantle) 52%, var(--ctp-base) 100%);
+  background:
+    radial-gradient(1200px 720px at 12% -8%, rgba(137, 180, 250, 0.14), transparent 60%),
+    radial-gradient(900px 620px at 88% 16%, rgba(148, 226, 213, 0.10), transparent 58%),
+    linear-gradient(160deg, var(--ctp-crust) 0%, var(--ctp-mantle) 52%, var(--ctp-base) 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   font: 400 var(--step-0) / 1.65 var(--font-ui);
   letter-spacing: 0.01em;
 }
