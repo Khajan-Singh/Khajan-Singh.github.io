@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weekly Report Blog
-summary: "Weekly reports covering progress, blockers, and next actions across my ISM journey . Posts are listed newest to oldest.
+summary: "Weekly reports covering progress and next actions across my ISM journey . Posts are listed newest to oldest.
 
 "
 ---
