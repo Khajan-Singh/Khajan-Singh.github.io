@@ -7,9 +7,9 @@ summary: "Student engineer focused on translating environmental signals into pra
 <div class="split">
   <div class="avatar">
     <div class="avatar__img">
-      <img src="{{ '/assets/img/placeholder-suit.svg' | relative_url }}" alt="Khajan Singh profile image">
+      <img src="{{ '/assets/img/khajan-profile.jpg' | relative_url }}" alt="Khajan Singh profile image">
     </div>
-    <div class="avatar__cap">Professional portrait placeholder used until final headshot is published.</div>
+    <div class="avatar__cap">Exploring the Android statues.</div>
   </div>
 
   <section class="section stack">
