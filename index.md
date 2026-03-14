@@ -3,18 +3,17 @@ layout: default
 title: Home
 description: "Khajan Singh technical portfolio for Environmental Electrical Engineering ISM work."
 summary: "Technical portfolio documenting a sensor-led environmental engineering build from research to deployment."
-status: "Active build cycle"
 updated: "March 2026"
 ---
 
 <section class="section stack stack--lg">
   <p class="kicker">Environmental Electrical Engineering</p>
-  <h1 class="h1">Khajan Singh builds sensing systems that convert plant and soil behavior into usable engineering data.</h1>
-  <p class="lede">This portfolio is structured as an evidence log for universities, mentors, and technical reviewers. It tracks research outputs, weekly engineering decisions, and the progression from prototype to final product.</p>
+  <h1 class="h1">I build sensing systems that converts behavior into usable engineering data.</h1>
+  <p class="lede">This portfolio is structured as an evidence log for the ISM program. It tracks research outputs, weekly reports, and the progression from prototype to final product.</p>
   <div class="cluster">
-    <a class="btn btn--primary" href="{{ '/projects/' | relative_url }}">Open Project Dossier</a>
+    <a class="btn btn--primary" href="{{ '/projects/' | relative_url }}">Project Dossier</a>
     <a class="btn" href="{{ '/research/' | relative_url }}">Open Research Log</a>
-    <a class="btn" href="{{ '/blog/' | relative_url }}">Open Weekly Notes</a>
+    <a class="btn" href="{{ '/blog/' | relative_url }}">Open Weekly Reports</a>
   </div>
 </section>
 

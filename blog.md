@@ -3,13 +3,12 @@ layout: page
 title: Blog
 subtitle: "Weekly engineering reflections in reverse chronological order."
 summary: "Execution log covering progress, blockers, and next actions across the ISM cycle."
-status: "Weekly updates in progress"
 updated: "March 2026"
 kicker: "Execution Log"
 ---
 
 <section class="section stack">
-  <h2 class="h2">Weekly Notes</h2>
+  <h2 class="h2">Weekly Reports</h2>
   <p>Posts are listed newest to oldest. Each entry captures work completed, constraints encountered, and decisions for the next iteration.</p>
 </section>
 

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: "Technical profile, mission focus, and contact points."
 summary: "Student engineer focused on translating environmental signals into practical data systems."
-status: "Open to mentorship and technical feedback"
 updated: "March 2026"
 kicker: "Profile"
 ---

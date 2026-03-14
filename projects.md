@@ -3,7 +3,6 @@ layout: page
 title: Projects
 subtitle: "Original Work and final product progression."
 summary: "Project dossier for the sensor-driven plant monitoring system, including architecture, evidence links, and milestone status."
-status: "Original Work active | Final Product in planning"
 updated: "March 2026"
 kicker: "Project Dossier"
 ---

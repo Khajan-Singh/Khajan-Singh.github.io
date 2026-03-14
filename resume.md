@@ -2,8 +2,6 @@
 layout: page
 title: Resume
 subtitle: "Current resume and downloadable PDF."
-summary: "Reference document for academic and technical background."
-status: "Current version published"
 updated: "March 2026"
 kicker: "Resume"
 ---

@@ -3,7 +3,6 @@ layout: page
 title: Research
 subtitle: "Research assessments and supporting documentation."
 summary: "Ordered evidence log of research assessments, each linked to its source folder."
-status: "Assessment set available"
 updated: "March 2026"
 kicker: "Evidence Log"
 ---
